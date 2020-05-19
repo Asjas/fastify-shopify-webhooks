@@ -1,0 +1,24 @@
+{
+  "name": "fastify-shopify-webhooks",
+  "author": "A-J Roos <asjas@outlook.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "module": "dist/fastify-shopify-webhooks.esm.js",
+  "bugs": {
+    "url": "https://github.com:Asjas/fastify-shopify-webhooks/issues",
+    "email": "asjas@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:Asjas/fastify-shopify-webhooks.git"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
